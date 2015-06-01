@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todaysmenu</string>
+
+    <string name="hello_world">This is the phone version of the
+                               Today menu app. Installing this on the
+                             phone will automatically install the wear app
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
